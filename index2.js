@@ -18,7 +18,7 @@ console.log("numar2 este mai mic sau egal decat numar3:", numar2 <= numar3);
 const str1 = 'Hello';
 const str2 = 'World';
 
-console.log(str1 + str2)
+console.log(str1 + ' ' + str2)
 
 
 const obj = {
